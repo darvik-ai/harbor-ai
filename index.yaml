@@ -3,10 +3,10 @@ entries:
   harbor-ai:
   - apiVersion: v1
     appVersion: 2.10.2
-    created: "2024-04-13T08:40:25.6645594+05:30"
+    created: "2024-04-13T08:52:05.5498173+05:30"
     description: An open source trusted cloud native registry that stores, signs,
       and scans content
-    digest: db3c4ca809a7c39d7216b498e6b3ed574a443d9b9505f1c6cf7af1da8191a672
+    digest: f107a5a605ed76286716ba7ff0ccac9bf033a7a35d2dab94915fd595267243bc
     icon: https://raw.githubusercontent.com/goharbor/website/main/static/img/logos/harbor-icon-color.png
     keywords:
     - docker
@@ -16,4 +16,4 @@ entries:
     urls:
     - harbor-ai-1.14.2.tgz
     version: 1.14.2
-generated: "2024-04-13T08:40:25.6645594+05:30"
+generated: "2024-04-13T08:52:05.5461541+05:30"
